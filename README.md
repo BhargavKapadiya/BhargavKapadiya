@@ -47,6 +47,4 @@ Track stock, products, and business operations with scalable architecture.
 
 ---
 
-## ⚡ Fun Fact
-
 I enjoy building real-world Backend systems that solve business problems and improve workflow automation.
